@@ -4,6 +4,10 @@
 @tailwind utilities;
 
 @layer base {
+   html, body {
+    font-family: 'Pretendard Variable', 'Pretendard', 'ui-sans-serif', 'system-ui', 'sans-serif';
+  }
+  
   h1 {
     @apply font-semibold text-5xl py-2;
   }
