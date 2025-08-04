@@ -13,7 +13,7 @@ import Project from "@/components/Project";
 import ResumeTitle from "@/components/ResumeTitle";
 // import ScrollProgress from "@/components/ScrollProgress";
 //import WorkExperience from "@/components/WorkExperience";
-import { DataProps, InformationProps, ProjectProps, WorkExperienceProps } from "@/types";
+import { DataProps, InformationProps, ProjectProps } from "@/types";
 //import Award from "@/components/Award";
 
 const Home: NextPage<DataProps> = ({
