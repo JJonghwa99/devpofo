@@ -13,14 +13,14 @@
 
   "project": [
     {
-      "id": 2,
-      "name": "The SkyGradU",
-      "description": "성결대학교 학생들을 위한 졸업요건 확인 및 진행도 시각화와\n교양 강의 추천서비스입니다.\n이전 수기 확인을 해야했던 방식의 불편함, 교양 강의의 선택 고민 해소를\n돕기 위하여 제작하게 되었습니다.",
-      "webUrl": "https://www.sku-graduation.p-e.kr/2025/project/b121cf02-61ab-4a94-baf3-3e9bc4a2244a",
-      "repoUrl": "https://github.com/JJonghwa99/skygradu",
+      "id": 0,
+      "name": "Mealfit",
+      "description": "회원 정보 바탕 식단 추천 및 칼로리 계산 어플리케이션",
+      "webUrl": "https://github.com/JJonghwa99/Mealfit",
+      "repoUrl": "https://github.com/JJonghwa99/Mealfit",
       "isTeam": true,
-      "period": ["2024. 10", "2025. 06"],
-      "stack": ["Spring", "Oracle Cloud", "PostgreSQL", "HTML", "CSS", "JavaScript"]
+      "period": ["2024. 09", "2022. 11"],
+      "stack": ["Android Studio(java)","MySQL"]
     },
     {
       "id": 1,
@@ -33,14 +33,14 @@
       "stack": ["Spring", "Naver Cloud Platform", "PostgreSQL", "HTML", "CSS", "JavaScript","CkEditor5"]
     },
     {
-      "id": 0,
-      "name": "Mealfit",
-      "description": "회원 정보 바탕 식단 추천 및 칼로리 계산 어플리케이션",
-      "webUrl": "https://github.com/JJonghwa99/Mealfit",
-      "repoUrl": "https://github.com/JJonghwa99/Mealfit",
+      "id": 2,
+      "name": "The SkyGradU",
+      "description": "성결대학교 학생들을 위한 졸업요건 확인 및 진행도 시각화와\n교양 강의 추천서비스입니다.\n이전 수기 확인을 해야했던 방식의 불편함, 교양 강의의 선택 고민 해소를\n돕기 위하여 제작하게 되었습니다.",
+      "webUrl": "https://www.sku-graduation.p-e.kr/2025/project/b121cf02-61ab-4a94-baf3-3e9bc4a2244a",
+      "repoUrl": "https://github.com/JJonghwa99/skygradu",
       "isTeam": true,
-      "period": ["2024. 09", "2022. 11"],
-      "stack": ["Android Studio(java)","MySQL"]
+      "period": ["2024. 10", "2025. 06"],
+      "stack": ["Spring", "Oracle Cloud", "PostgreSQL", "HTML", "CSS", "JavaScript"]
     }
   ],
 
