@@ -1,7 +1,6 @@
-- Hoo-ooh-ooh-ooh
-- Hoo-ooh-ooh-ooh
-- Stay in the middle
-- Like you a little
-- Don't want no riddle
-- 말해줘 say it back, oh, say it ditto
-- 아침은 너무 멀어 so say it ditto
+- 팀원이 제 코드를 쉽게 이해하고 이어서 작업할 수 있도록 가독성과 명확성을 고민하며 작성합니다.  
+- 기술적인 선택의 이유를 명확히 설명하고, 더 나은 방법을 찾기 위해 의견을 나누는 것을 즐깁니다.  
+
+
+- 작은 불편함이라도 방치하지 않고, 개선 방법을 찾아 적용하려고 노력합니다.  
+- 반복되는 작업은 자동화하고, 빌드와 배포 과정을 간소화하여 팀이 더 중요한 업무에 집중할 수 있도록 기여합니다.  
