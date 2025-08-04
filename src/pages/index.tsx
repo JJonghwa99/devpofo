@@ -62,8 +62,7 @@ export const getStaticProps = async () => {
     props: {
       ...objectData,
       information: await informationWithData,
-      workExperience: await Promise.all(workExperienceWithData),
-      project: await Promise.all(projectWithData),
+      project: await Promise.all(projectWithData)
     },
   };
 };
