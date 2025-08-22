@@ -13,16 +13,6 @@
 
   "project": [
     {
-      "id": 0,
-      "name": "Mealfit",
-      "description": "회원 정보 바탕 식단 추천 및 칼로리 계산 어플리케이션",
-      "webUrl": "https://github.com/JJonghwa99/Mealfit",
-      "repoUrl": "https://github.com/JJonghwa99/Mealfit",
-      "isTeam": true,
-      "period": ["2024. 09", "2022. 11"],
-      "stack": ["Android Studio(java)","MySQL"]
-    },
-    {
       "id": 1,
       "name": "SooMath",
       "description": "학원 원생들의 질문 관리와 성적 데이터 관리의 불편함을 해소시키기 위하여 제작하게 되었습니다.",
