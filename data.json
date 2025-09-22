@@ -15,8 +15,7 @@
     {
       "id": 1,
       "name": "SooMath",
-      "description": "SOOMATH는 사용자들이 수학 문제를 풀고, 질문하며, 학습 과정을 시각적으로 관리할 수 있도록 설계 웹 애플리케이션입니다. 
-      관리자의 승인을 통해 가입하는 회원제 시스템을 기반으로, CKEditor를 활용한 서식 있는 문제 작성부터 JFreeChart를 통한 서버 사이드 성적 시각화까지, 수학 학습에 특화된 다양한 기능을 제공하여 사용자들의 학습 효율을 높이는 것을 목표로 합니다.",
+      "description": "SOOMATH는 사용자들이 수학 문제를 풀고, 질문하며, 학습 과정을 시각적으로 관리할 수 있도록 설계 웹 애플리케이션입니다. 관리자의 승인을 통해 가입하는 회원제 시스템을 기반으로, CKEditor를 활용한 서식 있는 문제 작성부터 JFreeChart를 통한 서버 사이드 성적 시각화까지, 수학 학습에 특화된 다양한 기능을 제공하여 사용자들의 학습 효율을 높이는 것을 목표로 합니다.",
       "webUrl": "https://drive.google.com/file/d/126VOi46gGfWhO_RktpXVsmly9fZfb7T0/view?usp=sharing",
       "repoUrl": "https://github.com/JJonghwa99/SOOMATH",
       "isTeam": false,
@@ -26,9 +25,7 @@
     {
       "id": 2,
       "name": "The SkyGradU",
-      "description": "SkyGradU는 재학생들이 복잡한 졸업 요건을 손쉽게 확인하고, 수강 계획을 체계적으로 관리할 수 있도록 돕는 웹 서비스입니다. 
-      학교 포털 사이트의 데이터를 직접 연동하여 사용자 정보를 받아오고, 최신 강의 정보와 졸업 규정을 자동으로 수집/분석하여 사용자 맞춤형 졸업 이수 현황을 제공합니다. 
-      또한, 최적의 강의를 추천하여 교양 강의 선택에 대한 고민 해소를 돕습니다.",
+      "description": "SkyGradU는 재학생들이 복잡한 졸업 요건을 손쉽게 확인하고, 수강 계획을 체계적으로 관리할 수 있도록 돕는 웹 서비스입니다. 학교 포털 사이트의 데이터를 직접 연동하여 사용자 정보를 받아오고, 최신 강의 정보와 졸업 규정을 자동으로 수집/분석하여 사용자 맞춤형 졸업 이수 현황을 제공합니다. 또한, 최적의 강의를 추천하여 교양 강의 선택에 대한 고민 해소를 돕습니다.",
       "webUrl": "https://www.sku-graduation.p-e.kr/2025/project/b121cf02-61ab-4a94-baf3-3e9bc4a2244a",
       "repoUrl": "https://github.com/JJonghwa99/skygradu",
       "isTeam": true,
